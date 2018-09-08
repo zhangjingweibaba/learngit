@@ -3,4 +3,12 @@
 麻痹的
 草你妹的
 麻痹的
+<<<<<<< HEAD
 第六行 master
+=======
+第六行
+>>>>>>> feature1
+
+
+
+Creating a new branch is quick and simple.
